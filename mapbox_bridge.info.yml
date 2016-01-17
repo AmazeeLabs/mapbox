@@ -1,0 +1,5 @@
+name: MapBox Bridge
+type: module
+description: 'Provides a mapping system that you can add as a block anywhere on your site'
+version: 1.0.0
+core: 8.x
