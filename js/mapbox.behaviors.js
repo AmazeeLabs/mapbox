@@ -35,7 +35,7 @@
 
             var startJsonSession = function(){
                 jQuery.ajax({
-                    url: "http://muizenberg.info.dev.sa1.compact.amazee.io/muizenberg-locations",
+                    url: "http://localhost:3000/muizenberg-locations",
                     dataType: "json",
                     success: function(data) {
                         //var data = [{"title":"location 1","body":"body text","field_lat":"-34.04572","field_long":"18.45413"},{"title":"location 2","body":"body text","field_lat":"-34","field_long":"18.45413"}];
